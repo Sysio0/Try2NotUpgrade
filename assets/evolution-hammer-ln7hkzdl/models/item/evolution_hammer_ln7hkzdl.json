@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "evolution-hammer-ln7hkzdl:item/evolution_hammer_ln7hkzdl"
+  }
+}

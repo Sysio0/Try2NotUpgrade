@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DID",
+    "DSD",
+    " S "
+  ],
+  "key": {
+    "D": "minecraft:diamond_block",
+    "I": "minecraft:iron_block",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "t2nu:evolution_hammer_ln7hkzdl",
+    "count": 1
+  }
+}

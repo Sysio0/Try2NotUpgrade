@@ -1,0 +1,37 @@
+{
+  "item.t2nu.evolution_hammer_ln7hkzdl": "§6⚒ §5§lThe Hammer",
+  "item.evolution-hammer-ln7hkzdl.evolution_hammer_ln7hkzdl": "§6⚒ §5§lThe Hammer",
+  "item.evolution-hammer-ln7hkzdl.evolution_hammer_ln7hkzdl.tooltip": "A legendary tool that grows with its wielder",
+  "item.evolution-hammer-ln7hkzdl.evolution_hammer_ln7hkzdl.tooltip.description": "Mines blocks in an expanding area and gains XP from ores",
+  "item.evolution-hammer-ln7hkzdl.evolution_hammer_ln7hkzdl.tooltip.unbreakable": "This hammer will never break",
+  "item.evolution-hammer-ln7hkzdl.evolution_hammer_ln7hkzdl.tooltip.level_up": "Level Up! Your hammer has evolved!",
+  
+  "evolution_hammer.grade.novice": "Novice",
+  "evolution_hammer.grade.adept": "Adept",
+  "evolution_hammer.grade.master": "Master",
+  "evolution_hammer.grade.legendary": "Legendary",
+  
+  "evolution_hammer.ability.dash_strike": "Dash Strike",
+  "evolution_hammer.ability.thunder_dash": "Thunder Dash",
+  "evolution_hammer.ability.shockwave_slam": "Shockwave Slam",
+  "evolution_hammer.ability.meteor_strike": "Meteor Strike",
+  
+  "evolution_hammer.passive.haste": "Haste",
+  "evolution_hammer.passive.speed": "Speed",
+  "evolution_hammer.passive.fortune": "Fortune",
+  "evolution_hammer.passive.night_vision": "Night Vision",
+  "evolution_hammer.passive.fire_resistance": "Fire Resistance",
+  "evolution_hammer.passive.water_breathing": "Water Breathing",
+  "evolution_hammer.passive.jump_boost": "Jump Boost",
+  "evolution_hammer.passive.regeneration": "Regeneration",
+  "evolution_hammer.passive.absorption": "Absorption",
+  "evolution_hammer.passive.resistance": "Resistance",
+  "evolution_hammer.passive.strength": "Strength",
+  
+  "evolution_hammer.status.ready": "Ready",
+  "evolution_hammer.status.cooldown": "Cooldown",
+  "evolution_hammer.status.auto_smelt_on": "Auto-Smelt: ON",
+  "evolution_hammer.status.auto_smelt_off": "Auto-Smelt: OFF",
+  "key.categories.t2nu": "Try2NotUpgrade",
+  "key.evohammer.open_gui": "Open Evolution Hammer GUI"
+}

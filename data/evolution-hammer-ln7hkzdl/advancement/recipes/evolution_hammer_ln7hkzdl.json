@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "joined_world": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "joined_world"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "evolution-hammer-ln7hkzdl:evolution_hammer_ln7hkzdl_recipe"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "t2nu",
+  "version": "25.0.0",
+  "name": "Try2NotUpgrade - The Hammer",
+  "description": "The Hammer is an unbreakable, XP‑driven super‑tool that levels as you mine or donate mineral blocks to unlock larger 3D excavation areas, faster mining speed, powerful passive buffs and cinematic level‑scaled abilities. While holding the Hammer press G to open the Settings GUI (tabs along the top): Upgrades — a centered horizontal row of 9 donation slots where you can place or shift‑drag mineral blocks and press Confirm to instantly consume them for XP (your inventory is visible only on this page); Mining — choose your active excavation area and toggle features like Auto‑Smelt (unlocks at Lv50), Speed Mining (Lv40), Vein Mining (Lv55) and Instant Obsidian (Lv70) with a clear \"Current Active\" display; Effects — passives appear under PASSIVE EFFECTS in a centered 3×4 grid and default ON when unlocked so they apply immediately; Abilities — pick one active ability to use. To use an ability hold right‑click to charge: a single colored bar appears above your hotbar showing the ability name and percent (Thunder Dash and Meteor Strike charge to 100% in about 2.2s, Shockwave Slam in about 1.7s) — release when ready to unleash the selected attack; abilities scale with level and have cooldowns. The Hammer tooltip always shows Grade, Level, Progress, Mining Area, Active Passives, Active Ability and Auto‑Smelt status so you can monitor progression and settings at a glance.",
+  "authors": [
+    "klow using CreativeMode.net"
+  ],
+  "contact": {
+    "homepage": "https://creativemode.net",
+    "sources": "https://creativemode.net/mod/evolution-hammer-ln7hkzdl"
+  },
+  "license": "ARR - CreativeMode.net/mod-license",
+  "icon": "",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "evolution_hammer_ln7hkzdl.EvolutionHammer"
+    ],
+    "client": [
+      "evolution_hammer_ln7hkzdl.EvolutionHammerClient"
+    ],
+    "fabric-datagen": [
+      "evolution_hammer_ln7hkzdl.EvolutionHammerDataGenerator"
+    ]
+  },
+  "mixins": [
+    "evolution_hammer_ln7hkzdl.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "~1.21.5",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.discord": "https://discord.gg/creativemode"
+      }
+    }
+  }
+}
